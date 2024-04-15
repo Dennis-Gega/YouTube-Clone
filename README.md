@@ -16,10 +16,7 @@ This project is a simple responsive YouTube clone created with HTML and CSS. It 
 
 ## Getting Started
 
-To get a local copy of the project up and running, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/Dennis-Gega/Youtube-Clone.git`
-2. Open the `index.html` file in your web browser.
+Visit https://dennis-gega.github.io/YouTube-Clone/ to try this project yourself!
 
 ## Usage
 
